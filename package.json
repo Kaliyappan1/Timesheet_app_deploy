@@ -2,10 +2,7 @@
   "name": "new-timesheet-app",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "engines": {
-    "node": "14.x"
-  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
